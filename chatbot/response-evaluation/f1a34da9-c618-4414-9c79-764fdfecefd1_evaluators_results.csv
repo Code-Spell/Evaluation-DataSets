@@ -1,0 +1,31 @@
+query,category,score
+Can you describe what the role of a Teacher/Professor is according to the context provided?,faithfulness,0.0
+Can you describe what the role of a Teacher/Professor is according to the context provided?,relevancy,0.0
+Can you describe what the role of a Teacher/Professor is according to the context provided?,correctness,2.0
+Can you explain the purpose of providing 'context information' in 'Challenge Code Templates'?,faithfulness,1.0
+Can you explain the purpose of providing 'context information' in 'Challenge Code Templates'?,relevancy,1.0
+Can you explain the purpose of providing 'context information' in 'Challenge Code Templates'?,correctness,3.5
+Can you explain what the role of a teacher/professor is in the given scenario?,faithfulness,0.0
+Can you explain what the role of a teacher/professor is in the given scenario?,relevancy,1.0
+Can you explain what the role of a teacher/professor is in the given scenario?,correctness,4.5
+Can you find and describe a pattern in this sequence: _______?,faithfulness,1.0
+Can you find and describe a pattern in this sequence: _______?,faithfulness,1.0
+Can you find and describe a pattern in this sequence: _______?,relevancy,1.0
+Can you find and describe a pattern in this sequence: _______?,relevancy,1.0
+Can you find and describe a pattern in this sequence: _______?,correctness,4.5
+Can you find and describe a pattern in this sequence: _______?,correctness,2.5
+"Can you identify a pattern or rule for generating the terms of the Fibonacci sequence from the given example (0, 1)?",faithfulness,1.0
+"Can you identify a pattern or rule for generating the terms of the Fibonacci sequence from the given example (0, 1)?",relevancy,1.0
+"Can you identify a pattern or rule for generating the terms of the Fibonacci sequence from the given example (0, 1)?",correctness,4.0
+What does the `fibonacci(n)` function in the given code template do?,faithfulness,1.0
+What does the `fibonacci(n)` function in the given code template do?,relevancy,1.0
+What does the `fibonacci(n)` function in the given code template do?,correctness,4.0
+What is the expected output of the Fibonacci sequence generation function in the case where no input arguments are provided?,faithfulness,1.0
+What is the expected output of the Fibonacci sequence generation function in the case where no input arguments are provided?,relevancy,1.0
+What is the expected output of the Fibonacci sequence generation function in the case where no input arguments are provided?,correctness,3.5
+What programming language is specified for this problem?,faithfulness,0.0
+What programming language is specified for this problem?,relevancy,0.0
+What programming language is specified for this problem?,correctness,4.0
+What should a function do according to the given challenge description?,faithfulness,1.0
+What should a function do according to the given challenge description?,relevancy,1.0
+What should a function do according to the given challenge description?,correctness,4.0

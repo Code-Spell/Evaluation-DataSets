@@ -1,0 +1,31 @@
+query,category,score
+Can the navigation aspect of a robotics project be enhanced or optimized for improved performance?,faithfulness,0.0
+Can the navigation aspect of a robotics project be enhanced or optimized for improved performance?,relevancy,1.0
+Can the navigation aspect of a robotics project be enhanced or optimized for improved performance?,correctness,4.5
+Can you identify the specific task or problem that this given C++ code aims to solve?,faithfulness,1.0
+Can you identify the specific task or problem that this given C++ code aims to solve?,relevancy,1.0
+Can you identify the specific task or problem that this given C++ code aims to solve?,correctness,3.5
+"In the context of the provided challenge, what type of task is one expected to perform using this programming language?",faithfulness,1.0
+"In the context of the provided challenge, what type of task is one expected to perform using this programming language?",relevancy,1.0
+"In the context of the provided challenge, what type of task is one expected to perform using this programming language?",correctness,3.0
+In what programming language should I code the robot navigation for this challenge?,faithfulness,0.0
+In what programming language should I code the robot navigation for this challenge?,relevancy,1.0
+In what programming language should I code the robot navigation for this challenge?,correctness,4.0
+In what specific context or subject area does this challenge relate to?,faithfulness,1.0
+In what specific context or subject area does this challenge relate to?,relevancy,1.0
+In what specific context or subject area does this challenge relate to?,correctness,3.0
+What are the specified coordinates the robot should navigate to?,faithfulness,1.0
+What are the specified coordinates the robot should navigate to?,relevancy,1.0
+What are the specified coordinates the robot should navigate to?,correctness,4.0
+What is the main objective of the given challenge?,faithfulness,1.0
+What is the main objective of the given challenge?,relevancy,1.0
+What is the main objective of the given challenge?,correctness,4.0
+What is the role or purpose of the robot character in the given challenge?,faithfulness,0.0
+What is the role or purpose of the robot character in the given challenge?,relevancy,0.0
+What is the role or purpose of the robot character in the given challenge?,correctness,3.5
+What is the specific task that the robot needs to accomplish in this setup?,faithfulness,1.0
+What is the specific task that the robot needs to accomplish in this setup?,relevancy,1.0
+What is the specific task that the robot needs to accomplish in this setup?,correctness,4.0
+What is the unique identifier of the Challenge Graphics?,faithfulness,1.0
+What is the unique identifier of the Challenge Graphics?,relevancy,1.0
+What is the unique identifier of the Challenge Graphics?,correctness,5.0

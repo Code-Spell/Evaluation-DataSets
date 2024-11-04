@@ -1,0 +1,31 @@
+query,category,score
+Can you explain the purpose of using challenge code templates in the given context?,faithfulness,1.0
+Can you explain the purpose of using challenge code templates in the given context?,relevancy,1.0
+Can you explain the purpose of using challenge code templates in the given context?,correctness,3.5
+Can you provide a list of topics related to basics and max?,faithfulness,1.0
+Can you provide a list of topics related to basics and max?,relevancy,1.0
+Can you provide a list of topics related to basics and max?,correctness,2.0
+"In the list [12, 50, 99], on what position is the maximum value located?",faithfulness,0.0
+"In the list [12, 50, 99], on what position is the maximum value located?",relevancy,1.0
+"In the list [12, 50, 99], on what position is the maximum value located?",correctness,5.0
+What are the types of Challenge Code Templates mentioned in the context?,faithfulness,0.0
+What are the types of Challenge Code Templates mentioned in the context?,relevancy,1.0
+What are the types of Challenge Code Templates mentioned in the context?,correctness,3.5
+What are the types of Challenge Code Templates mentioned in this context?,faithfulness,1.0
+What are the types of Challenge Code Templates mentioned in this context?,relevancy,1.0
+What are the types of Challenge Code Templates mentioned in this context?,correctness,3.5
+What is a list in programming?,faithfulness,1.0
+What is a list in programming?,relevancy,1.0
+What is a list in programming?,correctness,4.0
+What is the ID of the generation in the provided challenge?,faithfulness,1.0
+What is the ID of the generation in the provided challenge?,relevancy,1.0
+What is the ID of the generation in the provided challenge?,correctness,3.5
+What is the maximum number of items that a list can contain in the 'basics' category?,faithfulness,1.0
+What is the maximum number of items that a list can contain in the 'basics' category?,relevancy,0.0
+What is the maximum number of items that a list can contain in the 'basics' category?,correctness,1.0
+What is the unique identifier for the terrain dimension in the Challenge Graphics?,faithfulness,1.0
+What is the unique identifier for the terrain dimension in the Challenge Graphics?,relevancy,1.0
+What is the unique identifier for the terrain dimension in the Challenge Graphics?,correctness,5.0
+What programming language is used in this challenge?,faithfulness,1.0
+What programming language is used in this challenge?,relevancy,1.0
+What programming language is used in this challenge?,correctness,4.0

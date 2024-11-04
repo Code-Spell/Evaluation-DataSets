@@ -1,0 +1,31 @@
+query,category,score
+"According to the conditions, what is the output of the function for the 3rd position in the sequence of inputs? (True or False)",faithfulness,1.0
+"According to the conditions, what is the output of the function for the 3rd position in the sequence of inputs? (True or False)",relevancy,0.0
+"According to the conditions, what is the output of the function for the 3rd position in the sequence of inputs? (True or False)",correctness,1.0
+Can you identify and list the first five prime numbers?,faithfulness,1.0
+Can you identify and list the first five prime numbers?,relevancy,1.0
+Can you identify and list the first five prime numbers?,correctness,4.0
+What are the names of the code templates in the given context?,faithfulness,0.0
+What are the names of the code templates in the given context?,relevancy,1.0
+What are the names of the code templates in the given context?,correctness,4.0
+What are the types of challenge code templates available in this context?,faithfulness,0.0
+What are the types of challenge code templates available in this context?,relevancy,1.0
+What are the types of challenge code templates available in this context?,correctness,3.5
+What is the dimension of the terrain in this challenge? (xSize and zSize),faithfulness,1.0
+What is the dimension of the terrain in this challenge? (xSize and zSize),relevancy,1.0
+What is the dimension of the terrain in this challenge? (xSize and zSize),correctness,5.0
+What is the expected output for a function checking prime numbers when given the input 3?,faithfulness,1.0
+What is the expected output for a function checking prime numbers when given the input 3?,relevancy,1.0
+What is the expected output for a function checking prime numbers when given the input 3?,correctness,5.0
+What programming language is used for checking prime numbers in the given challenge?,faithfulness,0.0
+What programming language is used for checking prime numbers in the given challenge?,relevancy,1.0
+What programming language is used for checking prime numbers in the given challenge?,correctness,3.5
+What programming language is used in this prime number checking challenge?,faithfulness,1.0
+What programming language is used in this prime number checking challenge?,faithfulness,0.0
+What programming language is used in this prime number checking challenge?,relevancy,1.0
+What programming language is used in this prime number checking challenge?,relevancy,1.0
+What programming language is used in this prime number checking challenge?,correctness,2.0
+What programming language is used in this prime number checking challenge?,correctness,5.0
+What programming language should you use for this prime number checking challenge?,faithfulness,1.0
+What programming language should you use for this prime number checking challenge?,relevancy,1.0
+What programming language should you use for this prime number checking challenge?,correctness,4.0

@@ -1,0 +1,31 @@
+query,category,score
+Can you explain the key concepts of Object-Oriented Programming (OOP) in the context of a class?,faithfulness,1.0
+Can you explain the key concepts of Object-Oriented Programming (OOP) in the context of a class?,relevancy,1.0
+Can you explain the key concepts of Object-Oriented Programming (OOP) in the context of a class?,correctness,3.5
+Can you identify the specific task required in this challenge given the context of Python programming?,faithfulness,0.0
+Can you identify the specific task required in this challenge given the context of Python programming?,relevancy,0.0
+Can you identify the specific task required in this challenge given the context of Python programming?,correctness,4.0
+How can you print **Rotating** to the console every time the rotation method is called?,faithfulness,1.0
+How can you print **Rotating** to the console every time the rotation method is called?,relevancy,1.0
+How can you print **Rotating** to the console every time the rotation method is called?,correctness,4.0
+How should you call a method in your jump method to make the character jump according to the Jump Method?,faithfulness,1.0
+How should you call a method in your jump method to make the character jump according to the Jump Method?,relevancy,1.0
+How should you call a method in your jump method to make the character jump according to the Jump Method?,correctness,3.5
+In what section of the given text is the description of challenge code templates found?,faithfulness,1.0
+In what section of the given text is the description of challenge code templates found?,relevancy,1.0
+In what section of the given text is the description of challenge code templates found?,correctness,4.0
+What are the names of the attributes in the SpellyController class?,faithfulness,1.0
+What are the names of the attributes in the SpellyController class?,relevancy,1.0
+What are the names of the attributes in the SpellyController class?,correctness,2.0
+What is the species of any instance created from the Dog class?,faithfulness,0.0
+What is the species of any instance created from the Dog class?,relevancy,1.0
+What is the species of any instance created from the Dog class?,correctness,4.0
+What messages must be printed while moving Spelly across the world in the given challenge?,faithfulness,1.0
+What messages must be printed while moving Spelly across the world in the given challenge?,relevancy,1.0
+What messages must be printed while moving Spelly across the world in the given challenge?,correctness,3.5
+"What methods does the SpellyController class have for controlling Spelly, and what operations do each method perform?",faithfulness,0.0
+"What methods does the SpellyController class have for controlling Spelly, and what operations do each method perform?",relevancy,1.0
+"What methods does the SpellyController class have for controlling Spelly, and what operations do each method perform?",correctness,2.5
+What programming language is used in this challenge?,faithfulness,0.0
+What programming language is used in this challenge?,relevancy,0.0
+What programming language is used in this challenge?,correctness,4.5

@@ -1,0 +1,31 @@
+query,category,score
+Can you list the three categories given in the context information?,faithfulness,1.0
+Can you list the three categories given in the context information?,relevancy,1.0
+Can you list the three categories given in the context information?,correctness,5.0
+What are the Challenge Code Templates?,faithfulness,1.0
+What are the Challenge Code Templates?,relevancy,1.0
+What are the Challenge Code Templates?,correctness,4.5
+What is the nature of the task in the given challenge?,faithfulness,1.0
+What is the nature of the task in the given challenge?,relevancy,1.0
+What is the nature of the task in the given challenge?,correctness,4.0
+What is the purpose of the challenge provided?,faithfulness,0.0
+What is the purpose of the challenge provided?,relevancy,1.0
+What is the purpose of the challenge provided?,correctness,4.5
+What is the unique identifier for the terrain dimension in the Challenge Graphics?,faithfulness,1.0
+What is the unique identifier for the terrain dimension in the Challenge Graphics?,faithfulness,1.0
+What is the unique identifier for the terrain dimension in the Challenge Graphics?,relevancy,1.0
+What is the unique identifier for the terrain dimension in the Challenge Graphics?,relevancy,1.0
+What is the unique identifier for the terrain dimension in the Challenge Graphics?,correctness,4.0
+What is the unique identifier for the terrain dimension in the Challenge Graphics?,correctness,5.0
+What operation should the function perform on a list of integers to sort them in ascending order?,faithfulness,1.0
+What operation should the function perform on a list of integers to sort them in ascending order?,relevancy,1.0
+What operation should the function perform on a list of integers to sort them in ascending order?,correctness,4.5
+What operation should the sort function perform on a list of integers to ensure they are arranged in ascending order?,faithfulness,1.0
+What operation should the sort function perform on a list of integers to ensure they are arranged in ascending order?,relevancy,1.0
+What operation should the sort function perform on a list of integers to ensure they are arranged in ascending order?,correctness,4.0
+What programming language and specific task are involved in the challenge?,faithfulness,1.0
+What programming language and specific task are involved in the challenge?,relevancy,1.0
+What programming language and specific task are involved in the challenge?,correctness,3.5
+What programming language is used in this problem statement?,faithfulness,0.0
+What programming language is used in this problem statement?,relevancy,0.0
+What programming language is used in this problem statement?,correctness,4.0

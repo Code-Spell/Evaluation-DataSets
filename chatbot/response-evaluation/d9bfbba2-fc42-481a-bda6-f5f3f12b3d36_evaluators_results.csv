@@ -1,0 +1,31 @@
+query,category,score
+Can you explain the concept that is associated with the 'Variables' tag in this challenge?,faithfulness,1.0
+Can you explain the concept that is associated with the 'Variables' tag in this challenge?,relevancy,1.0
+Can you explain the concept that is associated with the 'Variables' tag in this challenge?,correctness,3.5
+Can you list the specific tasks mentioned for a teacher/professor in this document?,faithfulness,0.0
+Can you list the specific tasks mentioned for a teacher/professor in this document?,relevancy,0.0
+Can you list the specific tasks mentioned for a teacher/professor in this document?,correctness,1.0
+How many sections does the challenge documentation contain?,faithfulness,1.0
+How many sections does the challenge documentation contain?,relevancy,1.0
+How many sections does the challenge documentation contain?,correctness,4.5
+"In what context is a teacher/professor expected to setup questions for, as described in the provided information?",faithfulness,1.0
+"In what context is a teacher/professor expected to setup questions for, as described in the provided information?",relevancy,1.0
+"In what context is a teacher/professor expected to setup questions for, as described in the provided information?",correctness,3.5
+What are the different data types that can be declared in Python?,faithfulness,1.0
+What are the different data types that can be declared in Python?,relevancy,1.0
+What are the different data types that can be declared in Python?,correctness,4.0
+What is the ID of the terrain dimension in the challenge graphics?,faithfulness,1.0
+What is the ID of the terrain dimension in the challenge graphics?,relevancy,1.0
+What is the ID of the terrain dimension in the challenge graphics?,correctness,5.0
+"What is the initial position (x, y, z) of the character in the challenge graphics?",faithfulness,1.0
+"What is the initial position (x, y, z) of the character in the challenge graphics?",relevancy,1.0
+"What is the initial position (x, y, z) of the character in the challenge graphics?",correctness,2.0
+What is the unique identifier for the terrain dimension in the Challenge Graphics?,faithfulness,1.0
+What is the unique identifier for the terrain dimension in the Challenge Graphics?,relevancy,1.0
+What is the unique identifier for the terrain dimension in the Challenge Graphics?,correctness,5.0
+What is the value of text_var in main.py?,faithfulness,1.0
+What is the value of text_var in main.py?,relevancy,1.0
+What is the value of text_var in main.py?,correctness,5.0
+What is the value of the text variable?,faithfulness,1.0
+What is the value of the text variable?,relevancy,1.0
+What is the value of the text variable?,correctness,5.0

@@ -1,0 +1,31 @@
+query,category,score
+Can a Palindrome Checker program identify if a given string reads the same forward and backward?,faithfulness,1.0
+Can a Palindrome Checker program identify if a given string reads the same forward and backward?,relevancy,1.0
+Can a Palindrome Checker program identify if a given string reads the same forward and backward?,correctness,5.0
+Can you describe the purpose of using challenge code templates?,faithfulness,1.0
+Can you describe the purpose of using challenge code templates?,relevancy,1.0
+Can you describe the purpose of using challenge code templates?,correctness,4.0
+Can you explain what a palindrome is within the context of the Palindrome Checker challenge?,faithfulness,1.0
+Can you explain what a palindrome is within the context of the Palindrome Checker challenge?,relevancy,1.0
+Can you explain what a palindrome is within the context of the Palindrome Checker challenge?,correctness,4.5
+In what programming language is this palindrome checking task expected to be performed?,faithfulness,0.0
+In what programming language is this palindrome checking task expected to be performed?,relevancy,1.0
+In what programming language is this palindrome checking task expected to be performed?,correctness,3.0
+What are the Challenge Code Templates?,faithfulness,1.0
+What are the Challenge Code Templates?,relevancy,1.0
+What are the Challenge Code Templates?,correctness,3.0
+What is the purpose of the function being written in the given context?,faithfulness,1.0
+What is the purpose of the function being written in the given context?,relevancy,1.0
+What is the purpose of the function being written in the given context?,correctness,4.0
+What is the unique identifier for the Challenge Graphics?,faithfulness,1.0
+What is the unique identifier for the Challenge Graphics?,relevancy,1.0
+What is the unique identifier for the Challenge Graphics?,correctness,5.0
+What programming language is used in this specific problem statement?,faithfulness,1.0
+What programming language is used in this specific problem statement?,relevancy,0.0
+What programming language is used in this specific problem statement?,correctness,4.0
+What should a function do if it checks for palindromes in a given string?,faithfulness,1.0
+What should a function do if it checks for palindromes in a given string?,relevancy,1.0
+What should a function do if it checks for palindromes in a given string?,correctness,4.0
+What specific characteristic should be checked for a string in the palindrome-verifying function mentioned in the description?,faithfulness,1.0
+What specific characteristic should be checked for a string in the palindrome-verifying function mentioned in the description?,relevancy,1.0
+What specific characteristic should be checked for a string in the palindrome-verifying function mentioned in the description?,correctness,4.5

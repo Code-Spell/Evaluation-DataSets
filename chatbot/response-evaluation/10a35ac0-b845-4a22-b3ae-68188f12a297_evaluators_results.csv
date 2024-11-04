@@ -1,0 +1,31 @@
+query,category,score
+Calculate the difference between 7 and 3.,faithfulness,0.0
+Calculate the difference between 7 and 3.,relevancy,1.0
+Calculate the difference between 7 and 3.,correctness,4.0
+"Can you provide examples of how to implement addition and subtraction within the `arithmetic_operations(a, b)` function?",faithfulness,1.0
+"Can you provide examples of how to implement addition and subtraction within the `arithmetic_operations(a, b)` function?",relevancy,1.0
+"Can you provide examples of how to implement addition and subtraction within the `arithmetic_operations(a, b)` function?",correctness,4.0
+Solve the following simple arithmetic problem: 3 + 5?,faithfulness,0.0
+Solve the following simple arithmetic problem: 3 + 5?,relevancy,1.0
+Solve the following simple arithmetic problem: 3 + 5?,correctness,5.0
+What are the basic arithmetic operations?,faithfulness,1.0
+What are the basic arithmetic operations?,relevancy,1.0
+What are the basic arithmetic operations?,correctness,4.0
+What is an example of a basic mathematical operation?,faithfulness,1.0
+What is an example of a basic mathematical operation?,faithfulness,1.0
+What is an example of a basic mathematical operation?,relevancy,1.0
+What is an example of a basic mathematical operation?,relevancy,1.0
+What is an example of a basic mathematical operation?,correctness,4.5
+What is an example of a basic mathematical operation?,correctness,4.0
+What is the result when you multiply the first and second numbers in the given conditions?,faithfulness,0.0
+What is the result when you multiply the first and second numbers in the given conditions?,relevancy,1.0
+What is the result when you multiply the first and second numbers in the given conditions?,correctness,2.0
+What programming language is used in this challenge?,faithfulness,0.0
+What programming language is used in this challenge?,relevancy,0.0
+What programming language is used in this challenge?,correctness,2.0
+Where is the initial character positioned on the x-axis?,faithfulness,0.0
+Where is the initial character positioned on the x-axis?,relevancy,0.0
+Where is the initial character positioned on the x-axis?,correctness,3.5
+Write a Python program to add two numbers using the '+' operator.,faithfulness,1.0
+Write a Python program to add two numbers using the '+' operator.,relevancy,1.0
+Write a Python program to add two numbers using the '+' operator.,correctness,3.5

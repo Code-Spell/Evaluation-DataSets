@@ -1,0 +1,89 @@
+Timestamp,"Education
+What is your current role?","Academic Level
+If you're a student, what is your ongoing academic level?","Programming Experience
+What is your programming experience?","Chatbot
+Have you used any other conversational assistant before? If so, which ones?","Option A
+Accuracy","Option A
+Clarity","Option A
+Helpfulness","Option A
+Engagement","Option A
+What did you like or dislike about this feedback? Any suggestions for improvement?","Option B
+Accuracy","Option B
+Clarity","Option B
+Helpfulness","Option B
+Engagement","Option B
+What did you like or dislike about this feedback? Any suggestions for improvement?","Option C
+Accuracy","Option C
+Clarity","Option C
+Helpfulness","Option C
+Engagement","Option C
+What did you like or dislike about this feedback? Any suggestions for improvement?","Preferred Option
+Which feedback option did you find the most helpful?","Option A
+Accuracy","Option A
+Clarity","Option A
+Helpfulness","Option A
+Engagement","Option A
+What did you like or dislike about this feedback? Any suggestions for improvement?","Option B
+Accuracy","Option B
+Clarity","Option B
+Helpfulness","Option B
+Engagement","Option B
+What did you like or dislike about this feedback? Any suggestions for improvement?","Option C
+Accuracy","Option C
+Clarity","Option C
+Helpfulness","Option C
+Engagement","Option C
+What did you like or dislike about this feedback? Any suggestions for improvement?","Preferred Option
+Which feedback option did you find the most helpful?","Option A
+Accuracy","Option A
+Clarity","Option A
+Helpfulness","Option A
+Engagement","Option A
+What did you like or dislike about this feedback? Any suggestions for improvement?","Option B
+Accuracy","Option B
+Clarity","Option B
+Helpfulness","Option B
+Engagement","Option B
+What did you like or dislike about this feedback? Any suggestions for improvement?","Option C
+Accuracy","Option C
+Clarity","Option C
+Helpfulness","Option C
+Engagement","Option C
+What did you like or dislike about this feedback? Any suggestions for improvement?","Preferred Option
+Which feedback option did you find the most helpful?","Option A
+Accuracy","Option A
+Clarity","Option A
+Helpfulness","Option A
+Engagement","Option A
+What did you like or dislike about this feedback? Any suggestions for improvement?","Option B
+Accuracy","Option B
+Clarity","Option B
+Helpfulness","Option B
+Engagement","Option B
+What did you like or dislike about this feedback? Any suggestions for improvement?","Option C
+Accuracy","Option C
+Clarity","Option C
+Helpfulness","Option C
+Engagement","Option C
+What did you like or dislike about this feedback? Any suggestions for improvement?","Preferred Option
+Which feedback option did you find the most helpful?","Preferred Option
+Which feedback option did you find the most helpful overall?","Additional Comments
+Any final thoughts on the feedback provided? How could we improve the feedback generation process?  "
+14/09/2024 15:37:25,Student,Master's Degree,Advanced,"Yes. ChatGPT, Phind, Bard. ",5,5,5,5,I like it. It provides correct and useful information and even tries to engage with the user by asking a question in the end :),5,5,5,2,"Contrary to Option A, this one didn't try to interact with the user. It just gave the answer but no interaction :(",5,5,5,3,"This one haven't tried to engage with the user but at least wrote key points and created a short summary in the end, which is great",Option A,5,3,4,5,,5,5,5,3,,5,5,5,3,,Option C,2,4,5,4,,5,5,5,5,,4,5,4,4,,Option B,3,4,4,3,,1,2,2,2,,4,4,3,3,,Option A,Option B,
+14/09/2024 18:38:11,Student,Master's Degree,Intermediate,"yes, chatGPT etc
+",5,5,5,5,,5,3,5,4,,5,5,4,4,,Option C,5,5,4,4,,4,4,4,4,,5,3,4,5,,Option A,5,5,5,5,,5,4,4,5,,4,4,4,4,,Option A,5,5,5,5,,4,4,4,4,,4,4,4,4,,Option B,Option A,
+14/09/2024 19:31:37,Student,Bachelor's Degree,Beginner,chatgpt,5,5,5,5,,5,4,5,4,,4,2,2,3,,Option A,5,4,4,5,,5,4,5,4,,1,2,2,4,"ChatGPT
+
+It provides contradictory and incorrect answers, often leading to confusion and misinformation.",Option B,3,5,5,5,"It indicates an incorrect time complexity for the Python max function; however, it is otherwise a pretty good response.",5,5,4,5,,4,4,5,5,,Option B,3,4,3,3,,4,4,4,4,,4,5,4,4,,Option B,Option B,
+14/09/2024 19:46:02,Student,Master's Degree,Advanced,"ChatGPT, Phind",5,5,5,5,,5,4,4,5,"In this example, for cycles are easier to understand than dictionary structures, in my opinion. The examples shown might be confusing for someone with no knowledge of that data structure.",5,5,5,4,,Option A,5,4,4,5,,5,5,4,5,"The examples provided are very clear, and makes understanding the root of the problem more easily",3,4,4,4,"The example where [1, 2, 3] * 5 is a TypeError is not true (allowed in Python, for example), which is false in the first example code block, but not on the second one.",Option B,5,5,5,5,,5,4,4,5,,4,5,4,5,,Option A,4,5,3,4,"The rotate section could be explained further, since it does not check for invalid output, and it's inefficient (checks the rotation string twice)",5,4,4,5,Steps could be explained further,4,2,3,4," doesn't explain what the code actually does in each step, nor how it is implemented",Option B,Option A,"Options A and B have their own strengths for each example given, i. e., I would prefer one over the other in different contexts."
+14/09/2024 19:49:07,Student,Master's Degree,Intermediate,Chat GPT,5,5,5,5,,5,3,3,3,"The answer was too complex for the question given, it should be simpler. A user that does not understand what a loop is would get confused with the complexity of the answer.",5,3,4,3,"This answer has more text than example which makes it less engaging and helful. It also assumes the user knows what ""range()"" is and has worse variable naming.",Option A,5,4,3,3,Too much text and no examples.,5,5,5,5,,5,3,2,3,,Option B,5,4,4,4,,5,3,3,3,,5,5,5,5,,Option C,3,3,3,3,,5,5,5,5,,3,3,2,3,,Option B,Option B,
+14/09/2024 19:53:57,Student,Master's Degree,Intermediate,ChatGPT,5,3,4,4,"It felt confusing. ""In Python, a for loop is a type of loop"". If is a bit redundant",5,4,4,4,"The text should specify why range(1,6) prints numbers from 1-5 and not 1-6.
+Other than that i liked how simply it explained the concepts",5,3,4,3,Felt too complex and confusing for beginners,Option B,3,3,4,4,The playfulness of the response might not be engaging to everyone,5,4,5,4,"It explained things concisely and simply, not adding too much verbose",4,3,4,3,Far too confusing,Option B,4,3,4,3,Time complexity should have been explained,5,5,5,4,"The text was concise and simple, but had too much filler",3,3,4,3,"It should explain why things are efficient, not just state it",Option B,5,4,4,4,Larger explanations for each section would be nice,4,2,2,2,It does not provide any kind of explanation,4,4,4,3,"I liked the explanations, but there should be several blocks of code throughout the chat, not just one in the ending",Option A,Option A,"I can't tell which I found to be most helpful, they were better in some circumstances and worst on others. I prefered the less playful ones"
+14/09/2024 21:51:37,Student,Bachelor's Degree,Intermediate,"ChatGPT,Copilot",5,5,4,5,,5,4,4,3,,5,4,5,4,,Option A,5,5,4,5,"I liked the real world example given, could use an example though ",4,4,3,3,,5,5,4,4,"The topics made it more clear, last line of each example isn't correct",Option A,5,5,4,3,,4,4,3,5,,5,4,4,5,,Option C,4,5,4,4,,4,4,4,3,,4,4,4,3,I liked that it tried to instruct more the student instead of trying to just show a solution,Option C,Option C,
+15/09/2024 13:11:17,Student,Master's Degree,Beginner,"ChatGPT, Google Assistant",5,5,5,4,,5,3,5,3,"For beginers, explanation might be a bit too lacking. However, it gave more practical examples, which is good.",5,5,4,4,"Only gave one real example, could have another one with lists.",Option A,5,4,4,5,"Lacking examples programming-wise, although the real world examples are good for begginer.",4,5,5,4,Great,4,5,5,4,"Clear and concise with good examples. However, I can't really find the difference between the two ""[1 , 2, 3] * 5"", when one supposedly works but the other one does not",Option B,5,5,5,5,"Seemed perfect, but gives a wrong answer, which is that max() has a time complexity of O(n log n), which is not only wrong as it is O(n), but if that were true, such function would be less efficient (for bigger sets), as O(n log n) takes more time than the O(n) of the user's",5,4,4,4,"The pleasentries were a bit taxing, usually when someone is asking these questions, they want a quick answer, things like ""i'd be happy to help"" just slow you down",5,4,4,4,It's okay,Option A,4,4,4,4,,4,3,4,2,"No explanations, just examples",4,4,4,4,"The explanation and example parts are too separate, it might reduce one's ability to understand",Option A,Option A,
+15/09/2024 15:40:36,Student,Bachelor's Degree,Intermediate,"ChatGPT, Claude, LLama and Mistral",5,4,5,5,"I liked the simplicity of option A, it was straightforward and was able to explain in a simple way, with simple examples",5,4,4,5,"Option B could be split into 2 parts, I believe the extra complexity could be avoided and it could only be given if the user asks for it",4,4,4,4,"Option C, in my opinion, is the least clear due to the use of bullet points, which in this case, I think worsens the effectiveness of the explanation, I believe that in this case, the processing of the answer worsens the result of the question",Option A,4,4,4,5,"Option A is by far the most engaging answer due to the use of excellent comparisons which gives the ChatBot personality, but unfortunately it is an option that gives basic recommendations on how to solve the problem, but due to the lack of context (in this case, the code where the error appears) it is a viable answer.",5,5,5,4,"Option B is the opposite of option A, it's clear, it's useful, it gives a definition of what a TypeError is, it gives examples, but it lacks personality.",5,4,5,5,"Option C also gives the user an example of how their code is wrong, it gives the reasons why such an error is happening and also gives the solutions, it is engaging in the case of asking the user for context, in this case, asking for the code where such an error is found.",Option B,4,5,5,5,"I liked the personality of this option, it's very engaging this way, also liked the way that it wrote a way to handle edge cases",5,5,4,4,I liked this option because it wrote some documentation and gave some advice on the naming of the function,5,5,4,4,Liked the way that it used bullet point to convey the information,Option A,5,5,5,4,I liked the way that the ChatBot explained what it was doing,5,5,4,3,"I liked the step by step guide, could be more engaging",5,5,5,5,"Easily the best option, it shows the way it's going to approach the problem, writes some recommendations, and finally writes the solution",Option C,Option A,"I liked both option A and B, i think that the personality of option A makes the answer way more engaging which helps the user maintain focus, also liked the efficiency of option B"
+15/09/2024 18:16:29,Student,Master's Degree,Intermediate,"Chat gpt, Chat Blackbox",5,4,4,4,"A student that see this may understand that he needs to have a list before hand to do a for loop, i think having more examples of loops may be better.",5,4,5,4,I like that has more than one examples but some languague is to formal and may causes doughts to students that are new to programing.,5,4,4,4,"I like the explication of each component, but feel like there should be and explanation on the range function, and have the output would also be beneficial.",Option B,3,3,3,3,I feel like there are examples of the problem happend missing. And its not giving and clear answer.,4,5,4,3,"I think it should end on the same way the option A did with the ""feel free to share tour code and i will help troubleshooter"". It still not covering all cases for this bug.",5,5,4,4,"I feel like it should end like option A, where it Days you can Share the code if the information is not helpfull. And I would just like more code examples.",Option C,5,5,3,4,I like the fact that it covers the possibilite of a null input.,5,5,3,4,,5,5,4,5,I like the Key points. But does not covers the case where the input is null.,Option C,5,5,4,5,,5,5,5,4,,5,5,4,3,Its misses more examples.,Option A,Option A,
+15/09/2024 20:20:15,Student,Master's Degree,Advanced,"Anthropic, OpenAI, DeepMind",5,5,4,5,Do not explores other functions of for loops,5,5,5,5,It shows important and pertinent uses of for loops and not only the mere basics,5,4,2,4,Did not provide enough details to make an efficient use of such statement,Option B,5,4,4,3,Too informal,5,5,5,5,,5,4,4,3,Good for advanced users but the average Joe may want a more straight to the point answer,Option B,5,5,5,5,Good for beginners,5,5,5,5,"Best one, enough nerdy details but straight to the point",5,4,4,3,"Again, too computerized, the language needs to be more relaxed",Option B,3,4,3,4,"There is a slight readability issue in the code, when rotating why do the IF statements a second time? Also, the code does not comply with the requirements, its missing a print in the rotating method that prints ""Rotating"".",5,5,5,5,This looks correct and nicely done,5,2,2,1,Too Long Didn't Read,Option B,Option B,"Looks good, nice work"
+16/09/2024 12:05:28,Student,Master's Degree,Intermediate,"Yes, claude 3.5",4,4,4,4,,4,3,5,2,,4,5,5,5,,Option B,3,2,3,4,,4,4,4,3,,4,4,5,5,,Option B,4,3,4,4,,3,2,2,3,,4,4,5,4,,Option C,4,4,5,4,,4,3,2,2,,4,4,4,2,,Option A,Option A,
+17/09/2024 19:57:40,Employee,,Advanced,"ChatGPT, GitHub Copilot",5,3,4,4,,4,5,5,2,I like that the response is very concise.,3,2,2,3,"This response should have had an example output so that students can easily compare theirs. This response also seems to provide more information than it needs, such as the last paragraph (for loops are ubiquitous) and the fact that loops are efficient. Students learning programming may not be looking for that kind of information.",Option B,5,5,4,5,,5,5,5,4,,2,3,3,1,"Accuracy issues: multiplication is supported between lists and integers, even though the response said it was not; even then, in the example solution, multiplication between a list and an integer is shown, but the expected output is wrong. The response also seems too long and repetitive, e.g. the first and third reasons for the error.",Option B,1,3,3,5,It is wrong and misleading.,5,5,5,5,,5,3,4,3,"Response is longer than it needs to be, there is no need to repeat the user's inputted function.",Option B,2,2,3,2,"It is not understandable how we define attributes in a constructor (step 2) and then ""create the constructor"" (step 3) which is essentially just changing what was already done. The ""why"" in the methodology is not explained.",2,2,2,3,The answer is extremely dry and simply presents the solution without any explanation on *how* the student should achieve that solution (i.e. approach the problem).,2,3,4,3,"The answer mostly limits itself to presenting the problem statement itself, without adding a lot of new information except for the example solution.",Option C,Option B,"The models seem to have trouble helping students navigate the learning platform's framework, with the models not being consistent with one another and providing wrong information. Maybe the models can be fine-tuned to this platform's specific framework."
+14/10/2024 20:58:30,Teacher,,Advanced,No,5,5,5,4,,4,4,3,4,,4,3,3,3,,Option A,5,5,5,4,,4,4,5,3,,5,4,4,4,,Option C,5,4,4,4,,4,3,3,3,,3,3,3,3,,Option A,4,4,4,4,,3,3,3,3,,4,4,4,4,,Option C,Option A,

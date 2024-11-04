@@ -1,0 +1,31 @@
+query,category,score
+Can you name two data types that are commonly used in Python?,faithfulness,1.0
+Can you name two data types that are commonly used in Python?,relevancy,1.0
+Can you name two data types that are commonly used in Python?,correctness,4.0
+Can you provide an example of a string that can be reversed using the skills demonstrated in this challenge?,faithfulness,1.0
+Can you provide an example of a string that can be reversed using the skills demonstrated in this challenge?,relevancy,1.0
+Can you provide an example of a string that can be reversed using the skills demonstrated in this challenge?,correctness,4.0
+In what sequence should the characters of the reversed string appear in relation to their original order in the input string?,faithfulness,1.0
+In what sequence should the characters of the reversed string appear in relation to their original order in the input string?,relevancy,1.0
+In what sequence should the characters of the reversed string appear in relation to their original order in the input string?,correctness,4.0
+What are the types of code templates given in the context?,faithfulness,1.0
+What are the types of code templates given in the context?,relevancy,1.0
+What are the types of code templates given in the context?,correctness,4.0
+What is the forest density in the given terrain dimension?,faithfulness,1.0
+What is the forest density in the given terrain dimension?,relevancy,1.0
+What is the forest density in the given terrain dimension?,correctness,3.5
+What is the main data type handled in this challenge?,faithfulness,1.0
+What is the main data type handled in this challenge?,relevancy,1.0
+What is the main data type handled in this challenge?,correctness,4.0
+What is the maximum height of the terrain in this challenge?,faithfulness,1.0
+What is the maximum height of the terrain in this challenge?,relevancy,1.0
+What is the maximum height of the terrain in this challenge?,correctness,4.5
+What is the x-coordinate of the initial character position in the Challenge Graphics?,faithfulness,0.0
+What is the x-coordinate of the initial character position in the Challenge Graphics?,relevancy,1.0
+What is the x-coordinate of the initial character position in the Challenge Graphics?,correctness,3.0
+What programming language is used for this task?,faithfulness,0.0
+What programming language is used for this task?,relevancy,0.0
+What programming language is used for this task?,correctness,5.0
+Write a test case for the `reverse_string(s)` function to check if it correctly reverses the string.,faithfulness,1.0
+Write a test case for the `reverse_string(s)` function to check if it correctly reverses the string.,relevancy,1.0
+Write a test case for the `reverse_string(s)` function to check if it correctly reverses the string.,correctness,3.5

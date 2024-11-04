@@ -1,0 +1,31 @@
+query,category,score
+Can you explain the purpose or function of a Challenge Code Template in the given context?,faithfulness,1.0
+Can you explain the purpose or function of a Challenge Code Template in the given context?,relevancy,1.0
+Can you explain the purpose or function of a Challenge Code Template in the given context?,correctness,4.5
+Can you identify the purpose of setting up questions based on this challenge documentation?,faithfulness,1.0
+Can you identify the purpose of setting up questions based on this challenge documentation?,relevancy,1.0
+Can you identify the purpose of setting up questions based on this challenge documentation?,correctness,4.0
+Can you provide a description for the 'Challenge Code Templates'?,faithfulness,1.0
+Can you provide a description for the 'Challenge Code Templates'?,relevancy,1.0
+Can you provide a description for the 'Challenge Code Templates'?,correctness,3.5
+How can you demonstrate proficiency in controlling 3D objects or performing 3D manipulations?,faithfulness,1.0
+How can you demonstrate proficiency in controlling 3D objects or performing 3D manipulations?,relevancy,1.0
+How can you demonstrate proficiency in controlling 3D objects or performing 3D manipulations?,correctness,4.0
+How is the ObjectManipulation instance created within the main function and what object is passed as a parameter to it?,faithfulness,1.0
+How is the ObjectManipulation instance created within the main function and what object is passed as a parameter to it?,relevancy,1.0
+How is the ObjectManipulation instance created within the main function and what object is passed as a parameter to it?,correctness,4.0
+In which direction should the 3D object face at the end of the given challenge?,faithfulness,1.0
+In which direction should the 3D object face at the end of the given challenge?,relevancy,1.0
+In which direction should the 3D object face at the end of the given challenge?,correctness,4.0
+What is the forest density in the given challenge graphics?,faithfulness,1.0
+What is the forest density in the given challenge graphics?,relevancy,1.0
+What is the forest density in the given challenge graphics?,correctness,4.0
+What is the forest density in the terrain dimension mentioned in the challenge details?,faithfulness,1.0
+What is the forest density in the terrain dimension mentioned in the challenge details?,relevancy,1.0
+What is the forest density in the terrain dimension mentioned in the challenge details?,correctness,2.5
+What is the title of the Challenge Documentation?,faithfulness,1.0
+What is the title of the Challenge Documentation?,relevancy,1.0
+What is the title of the Challenge Documentation?,correctness,5.0
+Which type of transformations are relevant for manipulating 3D objects as mentioned in the challenge description?,faithfulness,1.0
+Which type of transformations are relevant for manipulating 3D objects as mentioned in the challenge description?,relevancy,1.0
+Which type of transformations are relevant for manipulating 3D objects as mentioned in the challenge description?,correctness,4.0

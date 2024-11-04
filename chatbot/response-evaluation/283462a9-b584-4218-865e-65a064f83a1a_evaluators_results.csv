@@ -1,0 +1,31 @@
+query,category,score
+Can you identify the specific data structure or type being referred to as 'challenge details' in this context?,faithfulness,0.0
+Can you identify the specific data structure or type being referred to as 'challenge details' in this context?,relevancy,1.0
+Can you identify the specific data structure or type being referred to as 'challenge details' in this context?,correctness,3.5
+For which positions in the string are there at least 3 vowels according to the challenge conditions?,faithfulness,1.0
+For which positions in the string are there at least 3 vowels according to the challenge conditions?,relevancy,1.0
+For which positions in the string are there at least 3 vowels according to the challenge conditions?,correctness,2.0
+How can you determine the number of vowels in a given string using Python?,faithfulness,1.0
+How can you determine the number of vowels in a given string using Python?,relevancy,1.0
+How can you determine the number of vowels in a given string using Python?,correctness,3.5
+How does the 'count_vowels' function decide whether a letter is a vowel or not in main.py?,faithfulness,1.0
+How does the 'count_vowels' function decide whether a letter is a vowel or not in main.py?,relevancy,1.0
+How does the 'count_vowels' function decide whether a letter is a vowel or not in main.py?,correctness,4.0
+How many vowels are there in a given string?,faithfulness,0.0
+How many vowels are there in a given string?,relevancy,0.0
+How many vowels are there in a given string?,correctness,1.0
+"In which positions might a string containing 4 vowels occur, according to the provided conditions?",faithfulness,0.0
+"In which positions might a string containing 4 vowels occur, according to the provided conditions?",relevancy,1.0
+"In which positions might a string containing 4 vowels occur, according to the provided conditions?",correctness,2.0
+What category of data does the given context primarily deal with?,faithfulness,1.0
+What category of data does the given context primarily deal with?,relevancy,1.0
+What category of data does the given context primarily deal with?,correctness,2.0
+What programming language is used for counting the vowels in a string?,faithfulness,0.0
+What programming language is used for counting the vowels in a string?,relevancy,0.0
+What programming language is used for counting the vowels in a string?,correctness,4.5
+What type of data does the given context primarily involve?,faithfulness,0.0
+What type of data does the given context primarily involve?,relevancy,0.0
+What type of data does the given context primarily involve?,correctness,4.0
+What type of tasks can be performed using Python in this context?,faithfulness,1.0
+What type of tasks can be performed using Python in this context?,relevancy,1.0
+What type of tasks can be performed using Python in this context?,correctness,4.0

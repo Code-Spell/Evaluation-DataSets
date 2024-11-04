@@ -1,0 +1,31 @@
+query,category,score
+Can you explain the purpose of using challenge code templates in a programming context?,faithfulness,1.0
+Can you explain the purpose of using challenge code templates in a programming context?,relevancy,1.0
+Can you explain the purpose of using challenge code templates in a programming context?,correctness,4.0
+Can you list two classes from the challenge that might be taught in a school or educational setting?,faithfulness,1.0
+Can you list two classes from the challenge that might be taught in a school or educational setting?,relevancy,1.0
+Can you list two classes from the challenge that might be taught in a school or educational setting?,correctness,4.5
+"If a string is passed to the rotation method and its value is Back, what action will the robot perform as a result?",faithfulness,0.0
+"If a string is passed to the rotation method and its value is Back, what action will the robot perform as a result?",relevancy,1.0
+"If a string is passed to the rotation method and its value is Back, what action will the robot perform as a result?",correctness,4.0
+What are the data members in the `SpellyController` class?,faithfulness,1.0
+What are the data members in the `SpellyController` class?,relevancy,1.0
+What are the data members in the `SpellyController` class?,correctness,3.0
+What are the two data members in the SpellyController class?,faithfulness,1.0
+What are the two data members in the SpellyController class?,relevancy,1.0
+What are the two data members in the SpellyController class?,correctness,3.5
+What is the maximum jump height for the game character in the given code?,faithfulness,1.0
+What is the maximum jump height for the game character in the given code?,relevancy,1.0
+What is the maximum jump height for the game character in the given code?,correctness,4.0
+What is the unique identifier for the Challenge Graphics?,faithfulness,1.0
+What is the unique identifier for the Challenge Graphics?,relevancy,1.0
+What is the unique identifier for the Challenge Graphics?,correctness,5.0
+What method should be called in your jump method to make the character jump using the GameCharacter object?,faithfulness,1.0
+What method should be called in your jump method to make the character jump using the GameCharacter object?,relevancy,1.0
+What method should be called in your jump method to make the character jump using the GameCharacter object?,correctness,3.5
+"What method should be called to update the current status of a GameCharacter object, including its position and next position?",faithfulness,1.0
+"What method should be called to update the current status of a GameCharacter object, including its position and next position?",relevancy,1.0
+"What method should be called to update the current status of a GameCharacter object, including its position and next position?",correctness,3.5
+What method should be called to update the current status of a GameCharacter object?,faithfulness,1.0
+What method should be called to update the current status of a GameCharacter object?,relevancy,1.0
+What method should be called to update the current status of a GameCharacter object?,correctness,4.0

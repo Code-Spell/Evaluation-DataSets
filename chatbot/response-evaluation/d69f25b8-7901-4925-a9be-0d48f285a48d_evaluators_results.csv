@@ -1,0 +1,31 @@
+query,category,score
+Can you identify the task given in this context for a teacher/professor?,faithfulness,0.0
+Can you identify the task given in this context for a teacher/professor?,relevancy,1.0
+Can you identify the task given in this context for a teacher/professor?,correctness,3.5
+Can you write a recursive function for calculating the factorial of a given positive integer using the provided challenge tags?,faithfulness,1.0
+Can you write a recursive function for calculating the factorial of a given positive integer using the provided challenge tags?,relevancy,1.0
+Can you write a recursive function for calculating the factorial of a given positive integer using the provided challenge tags?,correctness,4.0
+How can the function `factorial(n)` be defined in the given code template `main.py`?,faithfulness,1.0
+How can the function `factorial(n)` be defined in the given code template `main.py`?,relevancy,1.0
+How can the function `factorial(n)` be defined in the given code template `main.py`?,correctness,4.0
+In what specific area of study or field is a teacher/professor typically associated with the use of Python?,faithfulness,1.0
+In what specific area of study or field is a teacher/professor typically associated with the use of Python?,relevancy,1.0
+In what specific area of study or field is a teacher/professor typically associated with the use of Python?,correctness,4.5
+Provide the implementation for the given function `factorial(n)`.,faithfulness,1.0
+Provide the implementation for the given function `factorial(n)`.,relevancy,1.0
+Provide the implementation for the given function `factorial(n)`.,correctness,4.5
+What does the function `factorial(n)` calculate?,faithfulness,1.0
+What does the function `factorial(n)` calculate?,relevancy,1.0
+What does the function `factorial(n)` calculate?,correctness,4.0
+What is the ID of the terrain dimension in the challenge graphics?,faithfulness,1.0
+What is the ID of the terrain dimension in the challenge graphics?,relevancy,1.0
+What is the ID of the terrain dimension in the challenge graphics?,correctness,5.0
+What is the output of a function when it computes the factorial for the number 3?,faithfulness,1.0
+What is the output of a function when it computes the factorial for the number 3?,relevancy,1.0
+What is the output of a function when it computes the factorial for the number 3?,correctness,4.0
+What is the purpose of providing a context for generating questions related to Challenge Code Templates?,faithfulness,1.0
+What is the purpose of providing a context for generating questions related to Challenge Code Templates?,relevancy,1.0
+What is the purpose of providing a context for generating questions related to Challenge Code Templates?,correctness,4.5
+What operation or mathematical function is performed in a factorial calculation?,faithfulness,1.0
+What operation or mathematical function is performed in a factorial calculation?,relevancy,1.0
+What operation or mathematical function is performed in a factorial calculation?,correctness,4.5

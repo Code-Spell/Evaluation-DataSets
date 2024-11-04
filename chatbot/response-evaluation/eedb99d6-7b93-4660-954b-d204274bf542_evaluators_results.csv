@@ -1,0 +1,31 @@
+query,category,score
+How many sections are present in the given document?,faithfulness,0.0
+How many sections are present in the given document?,relevancy,1.0
+How many sections are present in the given document?,correctness,5.0
+What are the types of Challenge Code Templates mentioned in the context?,faithfulness,1.0
+What are the types of Challenge Code Templates mentioned in the context?,relevancy,1.0
+What are the types of Challenge Code Templates mentioned in the context?,correctness,3.5
+What does the `main` function in the provided code template print?,faithfulness,1.0
+What does the `main` function in the provided code template print?,relevancy,1.0
+What does the `main` function in the provided code template print?,correctness,4.0
+What is the ID of the generation in the challenge?,faithfulness,1.0
+What is the ID of the generation in the challenge?,faithfulness,1.0
+What is the ID of the generation in the challenge?,relevancy,1.0
+What is the ID of the generation in the challenge?,relevancy,1.0
+What is the ID of the generation in the challenge?,correctness,1.0
+What is the ID of the generation in the challenge?,correctness,1.0
+What is the name of the documentation file?,faithfulness,1.0
+What is the name of the documentation file?,relevancy,1.0
+What is the name of the documentation file?,correctness,5.0
+What is the return type of the `main` function in the given code template?,faithfulness,0.0
+What is the return type of the `main` function in the given code template?,faithfulness,1.0
+What is the return type of the `main` function in the given code template?,relevancy,0.0
+What is the return type of the `main` function in the given code template?,relevancy,1.0
+What is the return type of the `main` function in the given code template?,correctness,1.0
+What is the return type of the `main` function in the given code template?,correctness,3.5
+What programming language is this Python Introduction course focused on?,faithfulness,1.0
+What programming language is this Python Introduction course focused on?,relevancy,1.0
+What programming language is this Python Introduction course focused on?,correctness,4.0
+What programming language is used for this task?,faithfulness,0.0
+What programming language is used for this task?,relevancy,0.0
+What programming language is used for this task?,correctness,4.0
